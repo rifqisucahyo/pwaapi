@@ -1,2 +1,22 @@
 {
+"products": [{"id":1,"name":"Asian false vampire bat","category":"Khaki"},
+{"id":2,"name":"Cormorant (unidentified)","category":"Goldenrod"},
+{"id":3,"name":"Crested porcupine","category":"Orange"},
+{"id":4,"name":"Whip-tailed wallaby","category":"Turquoise"},
+{"id":5,"name":"Southern sea lion","category":"Green"},
+{"id":6,"name":"Shelduck, european","category":"Indigo"},
+{"id":7,"name":"Southern right whale","category":"Pink"},
+{"id":8,"name":"Squirrel, richardson's ground","category":"Turquoise"},
+{"id":9,"name":"Grizzly bear","category":"Teal"},
+{"id":10,"name":"Bustard, kori","category":"Mauv"},
+{"id":11,"name":"Eurasian hoopoe","category":"Maroon"},
+{"id":12,"name":"Boubou, southern","category":"Turquoise"},
+{"id":13,"name":"Boat-billed heron","category":"Mauv"},
+{"id":14,"name":"Spotted deer","category":"Fuscia"},
+{"id":15,"name":"Pine snake (unidentified)","category":"Indigo"},
+{"id":16,"name":"Bottle-nose dolphin","category":"Yellow"},
+{"id":17,"name":"Eurasian hoopoe","category":"Yellow"},
+{"id":18,"name":"Bear, grizzly","category":"Crimson"},
+{"id":19,"name":"Tyrant flycatcher","category":"Aquamarine"},
+{"id":20,"name":"Burmese black mountain tortoise","category":"Mauv"}]
 }
