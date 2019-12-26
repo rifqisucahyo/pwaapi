@@ -1,21 +1,23 @@
 {
-  "brand": [
-    {"id" : 1, "title": "Brand A", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 2, "title": "Brand B", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 3, "title": "Brand C", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 4, "title": "Brand D", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 5, "title": "Brand E", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 6, "title": "Brand F", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 7, "title": "Brand G", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 8, "title": "Brand H", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 9, "title": "Brand I", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 10, "title": "Brand J", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 11, "title": "Brand K", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 12, "title": "Brand L", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 13, "title": "Brand M", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 14, "title": "Brand N", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 15, "title": "Brand O", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 16, "title": "Brand P", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
-    {"id" : 17, "title": "Brand Q", "icon": "https://assets.jamtangan.com/images/brand/casio.png"}
-  ]
+  "home": {
+      "brand": [
+          {"id" : 1, "title": "Brand A", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 2, "title": "Brand B", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 3, "title": "Brand C", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 4, "title": "Brand D", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 5, "title": "Brand E", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 6, "title": "Brand F", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 7, "title": "Brand G", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 8, "title": "Brand H", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 9, "title": "Brand I", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 10, "title": "Brand J", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 11, "title": "Brand K", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 12, "title": "Brand L", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 13, "title": "Brand M", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 14, "title": "Brand N", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 15, "title": "Brand O", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 16, "title": "Brand P", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
+          {"id" : 17, "title": "Brand Q", "icon": "https://assets.jamtangan.com/images/brand/casio.png"}
+        ]
+  }
 }
