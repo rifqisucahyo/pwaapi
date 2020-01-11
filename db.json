@@ -1,6 +1,5 @@
 {
-  "home": {
-      "brand": [
+  "home": [
           {"id" : 1, "title": "Brand A", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
           {"id" : 2, "title": "Brand B", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
           {"id" : 3, "title": "Brand C", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
@@ -19,5 +18,4 @@
           {"id" : 16, "title": "Brand P", "icon": "https://assets.jamtangan.com/images/brand/casio.png"},
           {"id" : 17, "title": "Brand Q", "icon": "https://assets.jamtangan.com/images/brand/casio.png"}
         ]
-  }
 }
